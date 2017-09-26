@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box shooter.Plugins", "Box shooter.Plugins.csproj", "{FFFA9A3C-4EC7-68B6-0487-87E5C7E846C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box shooter", "Box shooter.csproj", "{118F11AF-2BAF-0DAE-B3C7-1133C5C5FABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFA9A3C-4EC7-68B6-0487-87E5C7E846C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFA9A3C-4EC7-68B6-0487-87E5C7E846C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFA9A3C-4EC7-68B6-0487-87E5C7E846C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFA9A3C-4EC7-68B6-0487-87E5C7E846C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118F11AF-2BAF-0DAE-B3C7-1133C5C5FABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118F11AF-2BAF-0DAE-B3C7-1133C5C5FABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118F11AF-2BAF-0DAE-B3C7-1133C5C5FABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118F11AF-2BAF-0DAE-B3C7-1133C5C5FABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
